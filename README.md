@@ -17,13 +17,13 @@
 ### 2. 家長發布特教需求 (Post a Request)
 家長端專屬介面，可直覺地設定案件預算、選擇診斷標籤並填寫詳細狀況，發布後即時同步至全站案件池。
 <div align="center">
-  <img src="./assets/add-case-demo.gif" width="700" alt="Add Case Demo" />
+  <img src="./images/add-case-demo.gif" width="700" alt="Add Case Demo" />
 </div>
 
 ### 3. 專家預覽與解鎖案件 (Preview & Unlock Cases)
 專家端可瀏覽最新需求卡片。在詳情頁中，透過平台點數 (P幣) 系統解鎖家長聯絡資訊。系統同時具備嚴格的「審核狀態防呆機制」。
 <div align="center">
-  <img src="./images/review-case-demo.gif" width="700" alt="Preview and Unlock Demo" />
+  <img src="./images/preview-case-demo.gif" width="700" alt="Preview and Unlock Demo" />
 </div>
 
 ---
