@@ -23,7 +23,19 @@
 ### 3. 專家預覽案件 (Preview & Unlock Cases)
 專家端可瀏覽最新需求卡片。在詳情頁中，透過平台點數 (P幣) 系統解鎖家長聯絡資訊。系統同時具備嚴格的「審核狀態防呆機制」。
 <div align="center">
-  <img src="./images/preview-case-demo.gif" width="700" alt="Preview and Unlock Demo" />
+  <img src="./images/preview-case-demo.gif" width="700" alt="Preview Case Demo" />
+</div>
+
+### 4. 管理員預覽案件 (Preview & Unlock Cases)
+
+<div align="center">
+  <img src="./images/admin-search-case.png" width="700" alt="Admin Search Case Demo" />
+</div>
+
+### 5. 管理員審核專家檔案 (Preview & Unlock Cases)
+
+<div align="center">
+  <img src="./images/admin-check-user.png" width="700" alt="Admin Check Users Demo" />
 </div>
 
 ---
