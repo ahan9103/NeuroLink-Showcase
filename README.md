@@ -22,22 +22,4 @@ Framework: Vue 3 (Composition API)
 Router/State: Vue Router, Pinia
 Styling: Tailwind CSS
 HTTP Client: Axios
-🚀 快速啟動 (Getting Started)
-前置作業 (Prerequisites)
-JDK 17+
-Node.js 18+
-PostgreSQL 15+
-1. 後端啟動 (Backend Setup)
-建立 PostgreSQL 資料庫，命名為 neurolink。
-在 src/main/resources/application.properties 中配置你的資料庫連線與 SMTP 資訊（請參考 .env.example，勿將真實密碼推上 Git）。
-確認 spring.jpa.hibernate.ddl-auto=update 已開啟（開發環境）。
-運行 BackendApplication.java。
-2. 前端啟動 (Frontend Setup)
-# 進入前端目錄
-cd frontend
 
-# 安裝依賴套件
-npm install
-
-# 啟動開發伺服器 (預設運行於 http://localhost:5173)
-npm run dev
